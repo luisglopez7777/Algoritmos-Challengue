@@ -1,0 +1,14 @@
+{
+  "name": "algoritmos",
+  "version": "1.0.0",
+  "description": "Challengue: Diseña algoritmos para resolver problemas de tu vida diaria",
+  "main": "algoritmos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luisglopez7777",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
