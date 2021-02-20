@@ -1,6 +1,7 @@
 # Diseña algoritmos para resolver problemas de tu vida diaria
 ## Link del ejercicio: https://platzi.com/clases/2218-pensamiento-logico/35167-disena-algoritmos-para-resolver-problemas-de-tu-vi/
 ### Run 'npm i'
+### Run 'nodemon algoritmos.js'
 
 ### Algoritmo en texto:
 ##### Algoritmo 1
